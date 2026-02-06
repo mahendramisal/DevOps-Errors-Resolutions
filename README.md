@@ -6,7 +6,7 @@ Terraform is a powerful tool for infrastructure as code, but like any tool, it c
 
 1. "Error: Invalid function argument"
 What it is:
-Terraform reports an error about an invalid function argument when you're using a function incorrectly.
+Terraform reports an error about an invalid function argument when you're using a function incorrectly. 
 
 Possible causes:
 
@@ -16,6 +16,8 @@ How to fix it:
 
 Review the function documentation and ensure the correct syntax and argument types.
 Make sure the arguments passed to the function are of the correct type.
+
+
 2. "Error: Unsupported Terraform Core Version"
 What it is:
 Terraform reports that the configuration requires a specific version of Terraform that is not installed.
